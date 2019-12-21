@@ -1,5 +1,5 @@
 # Demo Nuxt.js SSR <style/> error
-New Nuxt.js versions don't render <style/> tags in <template/> area (page/index.vue).
+New Nuxt.js versions don't render <style/> tags in the template area (page/index.vue).
 ## 2.9.2
 ``` bash
 cd 2.9.2
